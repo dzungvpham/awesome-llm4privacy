@@ -15,10 +15,23 @@ I categorize the papers based on their goals/domains (e.g., detection vs anonymi
 Please feel free to open an issue or a pull request if you would like to share an interesting paper that uses LLMs for privacy.
 I will try to read and update the list whenever I have the time.
 
+## Table of Contents
+- [Detection](#detection)
+  - [General](#general)
+  - [Named Entity Recognition](#named-entity-recognition)
+- [Anonymization](#anonymization)
+  - [General Evaluation](#general-evaluation)
+  - [General Anonymizers](#general-anonymizers)
+  - [Anonymizers for Chatbot Prompts](#anonymizers-for-chatbot-prompts)
+  - [Anonymizers for Agents](#anonymizers-for-agents)
+  - [Authorship Obfuscation](#authorship-obfuscation)
+  - [Special Use Case: Abstractive Summarization](#special-use-case-abstractive-summarization)
+- [Miscellaneous](#miscellaneous)
+
 ## Detection
 Papers that focus on detecting privacy leakages/risks or privacy policy violations:
 
-### General:
+### General
 - [05/2025] [Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549) (arXiv) `EV`
 - [05/2025] [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) (arXiv) `EV`
 - [10/2024] [CLEAR: Towards Contextual LLM-Empowered Privacy Policy Analysis and Risk Generation for Large Language Model Applications](https://dl.acm.org/doi/full/10.1145/3708359.3712156) (IUI '25)
@@ -43,7 +56,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [04/2024]: [Can LLMs Get Help From Other LLMs Without Revealing Private Information?](https://aclanthology.org/2024.privatenlp-1.12/) (ACL '24 Workshop) `EV`
 - [10/2023]: [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
-### General Anonymizer:
+### General Anonymizers
 - [06/2026]: [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
 - [05/2025]: [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
 - [12/2024]: [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org/abs/2412.12928) (arXiv) `CO`
