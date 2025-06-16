@@ -73,7 +73,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 
 ### Anonymizers for Agents
 - [05/2025] [Firewalls to Secure Dynamic LLM Agentic Networks](https://arxiv.org/abs/2502.01822) (arXiv) `CO, CI`
-- [09/2024] [CI-Bench: Benchmarking Contextual Integrity of {AI} Assistants on Synthetic Data](https://arxiv.org/abs/2409.13903) (arXiv) `EV, CI`
+- [09/2024] [CI-Bench: Benchmarking Contextual Integrity of AI Assistants on Synthetic Data](https://arxiv.org/abs/2409.13903) (arXiv) `EV, CI`
 - [08/2024] [Privacy Awareness for Information-Sharing Assistants: A Case-study on Form-filling with Contextual Integrity](https://openreview.net/forum?id=l9rATNBB8Y) (TMLR '25) `EV, CI`
 - [05/2024] [AirGapAgent: Protecting Privacy-Conscious Conversational Agents](https://dl.acm.org/doi/10.1145/3658644.3690350) (CCS '24) `CO, CI`
 
