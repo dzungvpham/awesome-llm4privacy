@@ -50,16 +50,16 @@ Papers that focus on detecting privacy leakages/risks or privacy policy violatio
 Papers that study the use of LLMs for data anonymization, de-identification, sanitization, authorship obfuscation, etc. (further sub-categorized by the target evaluation domain):
 
 ### General Evaluation
-- [04/2025]: [A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage](https://www.arxiv.org/pdf/2504.21035) (arXiv) `EV`
-- [01/2025]: [Position: Contextual Integrity Washing for Language Models](https://arxiv.org/abs/2501.19173) (arXiv) `PO, CI`
-- [08/2024]: [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://openreview.net/forum?id=CxNXoMnCKc) (NeurIPS '24) `EV, CI`
-- [04/2024]: [Can LLMs Get Help From Other LLMs Without Revealing Private Information?](https://aclanthology.org/2024.privatenlp-1.12/) (ACL '24 Workshop) `EV`
-- [10/2023]: [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
+- [04/2025] [A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage](https://www.arxiv.org/pdf/2504.21035) (arXiv) `EV`
+- [01/2025] [Position: Contextual Integrity Washing for Language Models](https://arxiv.org/abs/2501.19173) (arXiv) `PO, CI`
+- [08/2024] [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://openreview.net/forum?id=CxNXoMnCKc) (NeurIPS '24) `EV, CI`
+- [04/2024] [Can LLMs Get Help From Other LLMs Without Revealing Private Information?](https://aclanthology.org/2024.privatenlp-1.12/) (ACL '24 Workshop) `EV`
+- [10/2023] [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
 ### General Anonymizers
-- [06/2026]: [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
-- [05/2025]: [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
-- [12/2024]: [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org/abs/2412.12928) (arXiv) `CO`
+- [06/2026] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
+- [05/2025] [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
+- [12/2024] [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org/abs/2412.12928) (arXiv) `CO`
 - [07/2024] [IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization](https://openreview.net/forum?id=JRifjkHove) (NeurIPS '24 SafeGenAI Workshop) `CO`
 - [02/2024] [Language Models are Advanced Anonymizers](https://openreview.net/forum?id=82p8VHRsaK) (ICLR '25) `CO`
 - [11/2023] [Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://aclanthology.org/2024.acl-long.741/) (ACL '24) `CO`
@@ -84,7 +84,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [02/2024] [ALISON: Fast and Effective Stylometric Authorship Obfuscation](https://ojs.aaai.org/index.php/AAAI/article/view/29901) (AAAI '24) `CO`
 
 ### Special Use Case: Abstractive Summarization
-- [12/2024]: [Clio: Privacy-Preserving Insights into Real-World AI Use](https://arxiv.org/abs/2412.13678) (arXiv) `CO`
+- [12/2024] [Clio: Privacy-Preserving Insights into Real-World AI Use](https://arxiv.org/abs/2412.13678) (arXiv) `CO`
 - [12/2024] [How Private are Language Models in Abstractive Summarization?](https://arxiv.org/abs/2412.12040) (arXiv) `EV`
 
 ## Miscellaneous
