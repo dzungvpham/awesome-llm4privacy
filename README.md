@@ -57,7 +57,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [10/2023] [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
 ### General Anonymizers
-- [06/2026] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
+- [06/2025] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
 - [05/2025] [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
 - [12/2024] [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org/abs/2412.12928) (arXiv) `CO`
 - [07/2024] [IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization](https://openreview.net/forum?id=JRifjkHove) (NeurIPS '24 SafeGenAI Workshop) `CO`
