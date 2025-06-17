@@ -32,6 +32,7 @@ I will try to read and update the list whenever I have the time.
 Papers that focus on detecting privacy leakages/risks or privacy policy violations:
 
 ### General
+- [06/2025] [Privacy Reasoning in Ambiguous Contexts](https://arxiv.org/abs/2506.12241) (arXiv) `CO, CI`
 - [05/2025] [Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549) (arXiv) `EV`
 - [05/2025] [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) (arXiv) `EV`
 - [10/2024] [CLEAR: Towards Contextual LLM-Empowered Privacy Policy Analysis and Risk Generation for Large Language Model Applications](https://dl.acm.org/doi/full/10.1145/3708359.3712156) (IUI '25)
