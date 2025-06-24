@@ -32,6 +32,7 @@ I will try to read and update the list whenever I have the time.
 Papers that focus on detecting privacy leakages/risks or privacy policy violations:
 
 ### General
+- [06/2025] [Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674) (arXiv) `EV`
 - [06/2025] [Privacy Reasoning in Ambiguous Contexts](https://arxiv.org/abs/2506.12241) (arXiv) `CO, CI`
 - [05/2025] [Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549) (arXiv) `EV`
 - [05/2025] [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) (arXiv) `EV`
@@ -65,7 +66,8 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [02/2024] [Language Models are Advanced Anonymizers](https://openreview.net/forum?id=82p8VHRsaK) (ICLR '25) `CO`
 - [11/2023] [Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://aclanthology.org/2024.acl-long.741/) (ACL '24) `CO`
 
-### Anonymizers for Chatbot Prompts
+### Anonymizers for Chatbot Applications
+- [06/2025] [Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](arXiv:2506.17336) (arXiv) `CO`
 - [04/2025] [Preempt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147) (arXiv) `CO`
 - [02/2025] [Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents](https://arxiv.org/abs/2502.18509) (arXiv) `CO`
 - [10/2024] [PAPILLON: Privacy Preservation from Internet-based and Local Language Model Ensembles](https://aclanthology.org/2025.naacl-long.173/) (NAACL '25) `CO`
@@ -85,6 +87,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [02/2024] [ALISON: Fast and Effective Stylometric Authorship Obfuscation](https://ojs.aaai.org/index.php/AAAI/article/view/29901) (AAAI '24) `CO`
 
 ### Special Use Case: Abstractive Summarization
+- [06/2025] [URANIA: Differentially Private Insights into AI Use](https://arxiv.org/abs/2506.04681) (arXiv) `CO`
 - [12/2024] [Clio: Privacy-Preserving Insights into Real-World AI Use](https://arxiv.org/abs/2412.13678) (arXiv) `CO`
 - [12/2024] [How Private are Language Models in Abstractive Summarization?](https://arxiv.org/abs/2412.12040) (arXiv) `EV`
 
