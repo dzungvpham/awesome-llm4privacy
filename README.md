@@ -67,7 +67,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [11/2023] [Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://aclanthology.org/2024.acl-long.741/) (ACL '24) `CO`
 
 ### Anonymizers for Chatbot Applications
-- [06/2025] [Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](arXiv:2506.17336) (arXiv) `CO`
+- [06/2025] [Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](https://arxiv.org/abs/2506.17336) (arXiv) `CO`
 - [04/2025] [Preempt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147) (arXiv) `CO`
 - [02/2025] [Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents](https://arxiv.org/abs/2502.18509) (arXiv) `CO`
 - [10/2024] [PAPILLON: Privacy Preservation from Internet-based and Local Language Model Ensembles](https://aclanthology.org/2025.naacl-long.173/) (NAACL '25) `CO`
