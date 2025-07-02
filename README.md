@@ -8,7 +8,7 @@ I try to include paper links from the official publication venues whenever possi
 I also try to include the earliest date when a paper was first submitted to arXiv.
 I categorize the papers based on their goals/domains (e.g., detection vs anonymization) and further add the following tags:
 - `CO` (constructive) if they are building something new or on top of some other existing work
-- `EV` (evaluation) if they are evaluating/benchmarking
+- `EV` (evaluation) if they are evaluating/benchmarking (usually there's a novel accompanying dataset)
 - `PO` (position) if they are primarily presenting a position or opinion
 - `CI` if they involve the Contextual Integrity theory.
 
@@ -22,7 +22,7 @@ I will try to read and update the list whenever I have the time.
 - [Anonymization](#anonymization)
   - [General Evaluation](#general-evaluation)
   - [General Anonymizers](#general-anonymizers)
-  - [Anonymizers for Chatbot Prompts](#anonymizers-for-chatbot-prompts)
+  - [Anonymizers for Chatbot Applications](#anonymizers-for-chatbot-applications)
   - [Anonymizers for Agents](#anonymizers-for-agents)
   - [Authorship Obfuscation](#authorship-obfuscation)
   - [Special Use Case: Abstractive Summarization](#special-use-case-abstractive-summarization)
@@ -32,6 +32,7 @@ I will try to read and update the list whenever I have the time.
 Papers that focus on detecting privacy leakages/risks or privacy policy violations:
 
 ### General
+- [06/2025] [Automated Privacy Information Annotation in Large Language Model Interactions](https://arxiv.org/abs/2505.20910) (arXiv) `EV`
 - [06/2025] [Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674) (arXiv) `EV`
 - [06/2025] [Privacy Reasoning in Ambiguous Contexts](https://arxiv.org/abs/2506.12241) (arXiv) `CO, CI`
 - [05/2025] [Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549) (arXiv) `EV`
@@ -52,13 +53,15 @@ Papers that focus on detecting privacy leakages/risks or privacy policy violatio
 Papers that study the use of LLMs for data anonymization, de-identification, sanitization, authorship obfuscation, etc. (further sub-categorized by the target evaluation domain):
 
 ### General Evaluation
-- [04/2025] [A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage](https://www.arxiv.org/pdf/2504.21035) (arXiv) `EV`
+- [06/2025] [MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation](https://arxiv.org/abs/2506.20737) (arXiv) `EV, CI`
+- [04/2025] [A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage](https://www.arxiv.org/abs/2504.21035) (arXiv) `EV`
 - [01/2025] [Position: Contextual Integrity Washing for Language Models](https://arxiv.org/abs/2501.19173) (arXiv) `PO, CI`
 - [08/2024] [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://openreview.net/forum?id=CxNXoMnCKc) (NeurIPS '24) `EV, CI`
 - [04/2024] [Can LLMs Get Help From Other LLMs Without Revealing Private Information?](https://aclanthology.org/2024.privatenlp-1.12/) (ACL '24 Workshop) `EV`
 - [10/2023] [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
 ### General Anonymizers
+- [06/2025] [AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text](https://arxiv.org/abs/2506.22508) (arXiv) `CO`
 - [06/2025] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
 - [05/2025] [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
 - [12/2024] [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org/abs/2412.12928) (arXiv) `CO`
