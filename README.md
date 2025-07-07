@@ -41,6 +41,7 @@ Papers that focus on detecting privacy leakages/risks or privacy policy violatio
 - [08/2024] [Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory](https://aclanthology.org/2025.naacl-long.86/) (NAACL '25) `CO, CI`
 - [07/2024] [Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations in the Wild](https://openreview.net/forum?id=tIpWtMYkzU) (COLM '24) `EV`
 - [06/2024] [GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory](https://aclanthology.org/2024.emnlp-main.195/) (EMNLP '24) `CO, CI`
+- [04/2024] [Evaluating LLM-based Personal Information Extraction and Countermeasures](https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yupei) (USENIX '25) `EV`
 - [10/2023] [Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://openreview.net/forum?id=kmn0BhQk7p) (ICLR '24) `EV`
 
 ### Named Entity Recognition
