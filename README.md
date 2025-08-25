@@ -29,9 +29,12 @@ I will try to read and update the list whenever I have the time.
 - [Miscellaneous](#miscellaneous)
 
 ## Detection
-Papers that focus on detecting privacy leakages/risks or privacy policy violations:
+Papers that focus on detecting/assessing privacy leakages/risks or privacy policy violations:
 
 ### General
+- [08/2025] [LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data](https://arxiv.org/pdf/2508.12158) (arXiv) `EV`
+- [08/2025] [Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/pdf/2508.10880) (arXiv) `EV, CO, CI`
+- [08/2025] [PRvL: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction](https://arxiv.org/pdf/2508.05545) (arXiv) `EV`
 - [06/2025] [Automated Privacy Information Annotation in Large Language Model Interactions](https://arxiv.org/abs/2505.20910) (arXiv) `EV`
 - [06/2025] [Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674) (arXiv) `EV`
 - [06/2025] [Privacy Reasoning in Ambiguous Contexts](https://arxiv.org/abs/2506.12241) (arXiv) `CO, CI`
@@ -62,6 +65,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [10/2023] [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
 ### General Anonymizers
+- [08/2025] [1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning](https://arxiv.org/pdf/2508.07667) (arXiv) `CO`
 - [06/2025] [AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text](https://arxiv.org/abs/2506.22508) (arXiv) `CO`
 - [06/2025] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
 - [05/2025] [Contextual Integrity in LLMs via Reasoning and Reinforcement Learning](https://arxiv.org/abs/2506.04245) (arXiv) `CO, CI`
