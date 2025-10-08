@@ -32,6 +32,7 @@ I will try to read and update the list whenever I have the time.
 Papers that focus on detecting/assessing privacy leakages/risks or privacy policy violations:
 
 ### General
+- [8/2025] [Evaluating Language Model Reasoning about Confidential Information](https://arxiv.org/abs/2508.19980) (arXiv) `EV`
 - [08/2025] [LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data](https://arxiv.org/pdf/2508.12158) (arXiv) `EV`
 - [08/2025] [Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/pdf/2508.10880) (arXiv) `EV, CO, CI`
 - [08/2025] [PRvL: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction](https://arxiv.org/pdf/2508.05545) (arXiv) `EV`
@@ -65,6 +66,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [10/2023] [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0) (ICLR '24) `EV, CI`
 
 ### General Anonymizers
+- [09/2025] [Zero-Shot Privacy-Aware Text Rewriting via Iterative Tree Search](https://arxiv.org/abs/2509.20838) (arXiv) `CO`
 - [08/2025] [1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning](https://arxiv.org/pdf/2508.07667) (arXiv) `CO`
 - [06/2025] [AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text](https://arxiv.org/abs/2506.22508) (arXiv) `CO`
 - [06/2025] [Self-Refining Language Model Anonymizers via Adversarial Distillation](https://arxiv.org/abs/2506.01420) (arXiv) `CO`
@@ -75,6 +77,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [11/2023] [Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://aclanthology.org/2024.acl-long.741/) (ACL '24) `CO`
 
 ### Anonymizers for Chatbot Applications
+- [10/2025] [Operationalizing Data Minimization for Privacy-Preserving LLM Prompting](https://www.arxiv.org/abs/2510.03662) (arXiv) `CO`
 - [06/2025] [Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](https://arxiv.org/abs/2506.17336) (arXiv) `CO`
 - [04/2025] [Preempt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147) (arXiv) `CO`
 - [02/2025] [Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents](https://arxiv.org/abs/2502.18509) (arXiv) `CO`
@@ -83,6 +86,9 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [08/2024] [Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models](https://arxiv.org/abs/2408.07004) (arXiv) `CO`
 
 ### Anonymizers for Agents
+- [09/2025] [PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents](https://arxiv.org/abs/2509.11939) (arXiv) `CO`
+- [09/2025] [The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-agent Collaboration](https://arxiv.org/abs/2509.14284) (arXiv) `CI`
+- [09/2025] [Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents](https://arxiv.org/abs/2509.17488) (arXiv) `CO, CI`
 - [05/2025] [Firewalls to Secure Dynamic LLM Agentic Networks](https://arxiv.org/abs/2502.01822) (arXiv) `CO, CI`
 - [09/2024] [CI-Bench: Benchmarking Contextual Integrity of AI Assistants on Synthetic Data](https://arxiv.org/abs/2409.13903) (arXiv) `EV, CI`
 - [08/2024] [Privacy Awareness for Information-Sharing Assistants: A Case-study on Form-filling with Contextual Integrity](https://openreview.net/forum?id=l9rATNBB8Y) (TMLR '25) `EV, CI`
