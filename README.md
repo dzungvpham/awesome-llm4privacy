@@ -95,6 +95,7 @@ Papers that study the use of LLMs for data anonymization, de-identification, san
 - [05/2024] [AirGapAgent: Protecting Privacy-Conscious Conversational Agents](https://dl.acm.org/doi/10.1145/3658644.3690350) (CCS '24) `CO, CI`
 
 ### Authorship Obfuscation
+- [05/2025] [Unraveling Interwoven Roles of Large Language Models in Authorship Privacy: Obfuscation, Mimicking, and Verification](https://aclanthology.org/2025.emnlp-main.753/) (EMNLP '25) `EV`
 - [08/2024] [StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements](https://aclanthology.org/2024.emnlp-main.241/) (EMNLP '24) `CO`
 - [05/2024] [Keep it Private: Unsupervised Privatization of Online Text](https://aclanthology.org/2024.naacl-long.480/) (NAACL '24) `CO`
 - [02/2024] [JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models](https://aclanthology.org/2024.naacl-long.87) (NAACL '24) `CO`
